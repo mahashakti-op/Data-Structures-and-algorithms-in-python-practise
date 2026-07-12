@@ -26,6 +26,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
 
 ## Trying my best to understand all the patterns and remember them , Goal : Become a Knight :)
