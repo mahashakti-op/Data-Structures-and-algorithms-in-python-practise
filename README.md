@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0509-fibonacci-number) |
 | [1492-the-kth-factor-of-n](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/1492-the-kth-factor-of-n) |
 ## Number Theory
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -47,6 +49,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0001-two-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
 
 ## Trying my best to understand all the patterns and remember them , Goal : Become a Knight :)
