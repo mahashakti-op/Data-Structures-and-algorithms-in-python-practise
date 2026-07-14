@@ -32,10 +32,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
@@ -53,6 +55,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0231-power-of-two) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
 
 ## Trying my best to understand all the patterns and remember them , Goal : Become a Knight :)
