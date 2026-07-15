@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0125-valid-palindrome) |
+| [1796-second-largest-digit-in-a-string](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/1796-second-largest-digit-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0001-two-sum) |
+| [1796-second-largest-digit-in-a-string](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/1796-second-largest-digit-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
