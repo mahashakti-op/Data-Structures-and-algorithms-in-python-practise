@@ -86,6 +86,10 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0977-squares-of-a-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
 
 ## Trying my best to understand all the patterns and remember them , Goal : Become a Knight :)
