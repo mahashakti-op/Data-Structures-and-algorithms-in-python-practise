@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -94,6 +96,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
 
 ## Trying my best to understand all the patterns and remember them , Goal : Become a Knight :)
