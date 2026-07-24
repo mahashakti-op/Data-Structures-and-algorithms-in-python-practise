@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0844-backspace-string-compare) |
 | [1796-second-largest-digit-in-a-string](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/1796-second-largest-digit-in-a-string) |
 ## Binary Search
 |  |
@@ -110,6 +112,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
 
 ## Trying my best to understand all the patterns and remember them , Goal : Become a Knight :)
