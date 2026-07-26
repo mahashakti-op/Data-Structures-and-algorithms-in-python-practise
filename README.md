@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0345-reverse-vowels-of-a-string](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0844-backspace-string-compare) |
+| [0881-boats-to-save-people](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0283-move-zeroes) |
+| [0881-boats-to-save-people](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0088-merge-sorted-array) |
+| [0881-boats-to-save-people](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0881-boats-to-save-people) |
 ## Stack
 |  |
 | ------- |
