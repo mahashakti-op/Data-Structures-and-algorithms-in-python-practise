@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0877-stone-game) |
 | [1492-the-kth-factor-of-n](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/1492-the-kth-factor-of-n) |
 ## Number Theory
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0283-move-zeroes) |
+| [0877-stone-game](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -130,6 +133,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0053-maximum-subarray) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
 
 ## Trying my best to understand all the patterns and remember them , Goal : Become a Knight :)
