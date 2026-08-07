@@ -90,11 +90,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0001-two-sum) |
+| [0904-fruit-into-baskets](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0904-fruit-into-baskets) |
 | [1796-second-largest-digit-in-a-string](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/1796-second-largest-digit-in-a-string) |
 ## Bit Manipulation
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
