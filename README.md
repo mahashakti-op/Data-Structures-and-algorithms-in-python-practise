@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0344-reverse-string) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0904-fruit-into-baskets) |
 | [1796-second-largest-digit-in-a-string](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/1796-second-largest-digit-in-a-string) |
 ## Bit Manipulation
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
