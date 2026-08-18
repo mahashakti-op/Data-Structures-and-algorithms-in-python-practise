@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0344-reverse-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0141-linked-list-cycle) |
 | [0904-fruit-into-baskets](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0904-fruit-into-baskets) |
 | [1796-second-largest-digit-in-a-string](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/1796-second-largest-digit-in-a-string) |
 ## Bit Manipulation
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0141-linked-list-cycle) |
 ## Greedy
 |  |
 | ------- |
@@ -157,6 +160,10 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/1004-max-consecutive-ones-iii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
 
 ## Trying my best to understand all the patterns and remember them , Goal : Become a Knight :)
