@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0904-fruit-into-baskets) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/1004-max-consecutive-ones-iii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
