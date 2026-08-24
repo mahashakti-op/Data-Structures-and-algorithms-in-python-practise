@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0877-stone-game) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/1004-max-consecutive-ones-iii) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
 |  |
 | ------- |
