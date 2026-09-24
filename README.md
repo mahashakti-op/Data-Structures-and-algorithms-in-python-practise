@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0844-backspace-string-compare](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0986-interval-list-intersections) |
 ## String
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0881-boats-to-save-people](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
@@ -188,6 +190,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0881-boats-to-save-people) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
 
 ## Trying my best to understand all the patterns and remember them , Goal : Become a Knight :)
