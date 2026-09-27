@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0125-valid-palindrome) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Simulation
@@ -196,6 +198,10 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0986-interval-list-intersections) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
 
 ## Trying my best to understand all the patterns and remember them , Goal : Become a Knight :)
