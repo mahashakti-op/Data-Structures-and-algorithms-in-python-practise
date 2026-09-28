@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0986-interval-list-intersections](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1929-concatenation-of-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0844-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
