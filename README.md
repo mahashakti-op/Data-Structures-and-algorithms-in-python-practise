@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0844-backspace-string-compare) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0142-linked-list-cycle-ii) |
+| [0383-ransom-note](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0560-subarray-sum-equals-k) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
 
