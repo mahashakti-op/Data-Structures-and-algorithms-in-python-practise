@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/1004-max-consecutive-ones-iii) |
 ## Array
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0904-fruit-into-baskets) |
