@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/1004-max-consecutive-ones-iii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0503-next-greater-element-ii](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0560-subarray-sum-equals-k) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0088-merge-sorted-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0881-boats-to-save-people](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
@@ -283,6 +286,11 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
 
 ## Trying my best to understand all the patterns and remember them , Goal : Become a Knight :)
