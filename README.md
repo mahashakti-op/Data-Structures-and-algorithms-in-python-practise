@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0509-fibonacci-number) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0877-stone-game](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0877-stone-game) |
 | [1492-the-kth-factor-of-n](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/1492-the-kth-factor-of-n) |
 ## Number Theory
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/1004-max-consecutive-ones-iii) |
