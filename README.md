@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0503-next-greater-element-ii](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0525-contiguous-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0142-linked-list-cycle-ii) |
+| [0347-top-k-frequent-elements](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0881-boats-to-save-people](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0977-squares-of-a-sorted-array) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0347-top-k-frequent-elements) |
 ## Game Theory
 |  |
 | ------- |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0387-first-unique-character-in-a-string) |
 ## Pigeonhole Principle
@@ -296,11 +301,17 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
 
 ## Trying my best to understand all the patterns and remember them , Goal : Become a Knight :)
