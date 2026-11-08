@@ -322,15 +322,30 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0700-search-in-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
 
 ## Trying my best to understand all the patterns and remember them , Goal : Become a Knight :)
