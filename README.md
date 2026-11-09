@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0700-search-in-a-binary-search-tree) |
@@ -336,12 +337,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0112-path-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Lifting
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0112-path-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
 
