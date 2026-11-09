@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0700-search-in-a-binary-search-tree) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0700-search-in-a-binary-search-tree) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Lifting
