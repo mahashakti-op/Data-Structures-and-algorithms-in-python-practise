@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -335,12 +336,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0129-sum-root-to-leaf-numbers) |
