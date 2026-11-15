@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0986-interval-list-intersections) |
+| [0994-rotting-oranges](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1480-running-sum-of-1d-array](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/1480-running-sum-of-1d-array) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0994-rotting-oranges](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0994-rotting-oranges) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0112-path-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/mahashakti-op/Data-Structures-and-algorithms-in-python-practise/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
 
 ## Trying my best to understand all the patterns and remember them , Goal : Become a Knight :)
